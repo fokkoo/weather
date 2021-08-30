@@ -25,7 +25,7 @@ class MainActivity : AppCompatActivity() {
 
                 print("Hello Kotlin!"+i);
 
-                //
+                
 
             var myStringhello: String = hello("Hello Kotlin! I am starting to learn you"+i)
          //   textView.text = "Hello Kotlin! I am starting to learn you"
